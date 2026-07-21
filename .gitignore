@@ -1,0 +1,9 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated Timetable Outputs
+my_timetable.png
+my_timetable.jpg
+my_timetable.pdf
+iitb_timetable.*
