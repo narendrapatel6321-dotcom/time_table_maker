@@ -1,0 +1,562 @@
+{
+  "MA 105": {
+    "name": "Calculus",
+    "sections": [
+      {
+        "instructor": "Prachi Mahajan",
+        "L_slot": "2"
+      },
+      {
+        "instructor": "Debanjana Mitra",
+        "L_slot": "3"
+      },
+      {
+        "instructor": "Saikat Mazumdar",
+        "L_slot": "8"
+      },
+      {
+        "instructor": "Suman Kumar Sahoo",
+        "L_slot": "9"
+      }
+    ],
+    "T_slots": [
+      "X1",
+      "X2",
+      "X3"
+    ],
+    "L_venue": "LA 201, LA 202",
+    "T_venue": "LTs"
+  },
+  "MA 113": {
+    "name": "Mathematics and Its History Theory I",
+    "sections": [
+      {
+        "instructor": "Ronnie Sebastian",
+        "L_slot": "11"
+      }
+    ],
+    "T_slots": [
+      "X3"
+    ],
+    "L_venue": "LT 304",
+    "T_venue": "LT 204"
+  },
+  "MA 401": {
+    "name": "Linear Algebra",
+    "sections": [
+      {
+        "instructor": "Bata Krishna Das",
+        "L_slot": "6"
+      }
+    ],
+    "T_slots": [
+      "3B"
+    ],
+    "L_venue": "114",
+    "T_venue": "113, 114"
+  },
+  "MA 403": {
+    "name": "Real analysis",
+    "sections": [
+      {
+        "instructor": "Sourav Pal",
+        "L_slot": "9"
+      }
+    ],
+    "T_slots": [
+      "3A"
+    ],
+    "L_venue": "114",
+    "T_venue": "113, 114"
+  },
+  "MA 403 (M)": {
+    "name": "Real analysis (Minor)",
+    "sections": [
+      {
+        "instructor": "Sanjoy Pusti",
+        "L_slot": "5"
+      }
+    ],
+    "T_slots": [
+      "XA"
+    ],
+    "L_venue": "216",
+    "T_venue": "216"
+  },
+  "MA 417": {
+    "name": "Ordinary differential equations",
+    "sections": [
+      {
+        "instructor": "G.K. Srinivasan",
+        "L_slot": "4"
+      }
+    ],
+    "T_slots": [
+      "XE"
+    ],
+    "L_venue": "114",
+    "T_venue": "113, 114"
+  },
+  "MA 419": {
+    "name": "Basic algebra",
+    "sections": [
+      {
+        "instructor": "Saurav Bhaumik",
+        "L_slot": "1"
+      }
+    ],
+    "T_slots": [
+      "3C"
+    ],
+    "L_venue": "114",
+    "T_venue": "113, 114"
+  },
+  "MA 419 (M)": {
+    "name": "Basic algebra (Minor)",
+    "sections": [
+      {
+        "instructor": "U.K. Anandavardhanan",
+        "L_slot": "5"
+      }
+    ],
+    "T_slots": [
+      "XA"
+    ],
+    "L_venue": "105",
+    "T_venue": "105"
+  },
+  "MA 503": {
+    "name": "Functional analysis",
+    "sections": [
+      {
+        "instructor": "Sutanu Roy",
+        "L_slot": "7"
+      }
+    ],
+    "T_slots": [
+      "X2"
+    ],
+    "L_venue": "216",
+    "T_venue": "113, 114"
+  },
+  "MA 515": {
+    "name": "Partial differential equations",
+    "sections": [
+      {
+        "instructor": "Sivaji Ganesh Sista",
+        "L_slot": "4"
+      }
+    ],
+    "T_slots": [
+      "X1"
+    ],
+    "L_venue": "216",
+    "T_venue": "113, 114"
+  },
+  "MA 521": {
+    "name": "Theory of Analytic Functions",
+    "sections": [
+      {
+        "instructor": "Sudarshan R. Gurjar",
+        "L_slot": "8"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "114",
+    "T_venue": ""
+  },
+  "MA 523": {
+    "name": "Basic number theory",
+    "sections": [
+      {
+        "instructor": "Keshav Aggarwal",
+        "L_slot": "9"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "216",
+    "T_venue": ""
+  },
+  "MA 538": {
+    "name": "Representation theory of finite groups",
+    "sections": [
+      {
+        "instructor": "Preeti Raman",
+        "L_slot": "11"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "113",
+    "T_venue": ""
+  },
+  "MA 5001": {
+    "name": "Mathematics of Deep Learning Architectures",
+    "sections": [
+      {
+        "instructor": "S. Baskar",
+        "L_slot": "6"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "",
+    "T_venue": ""
+  },
+  "MA 5101": {
+    "name": "Algebra II",
+    "sections": [
+      {
+        "instructor": "Manoj K. Keshari",
+        "L_slot": "2"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "113",
+    "T_venue": ""
+  },
+  "MA 5102": {
+    "name": "Basic algebraic topology",
+    "sections": [
+      {
+        "instructor": "Sandip Singh",
+        "L_slot": "10"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "105",
+    "T_venue": ""
+  },
+  "MA 5109": {
+    "name": "Graph theory",
+    "sections": [
+      {
+        "instructor": "Niranjan Balachandran",
+        "L_slot": "8"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "105",
+    "T_venue": ""
+  },
+  "MA 5112": {
+    "name": "Introduction to Mathematical Methods",
+    "sections": [
+      {
+        "instructor": "Harsha Hutridurga",
+        "L_slot": "11"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "105",
+    "T_venue": ""
+  },
+  "SI 419": {
+    "name": "Combinatorics",
+    "sections": [
+      {
+        "instructor": "Swapneel Mahajan",
+        "L_slot": "6"
+      }
+    ],
+    "T_slots": [
+      "2A"
+    ],
+    "L_venue": "216",
+    "T_venue": "105, 216"
+  },
+  "SI 423": {
+    "name": "Linear algebra and applications",
+    "sections": [
+      {
+        "instructor": "Ananthnarayan Hariharan",
+        "L_slot": "1"
+      }
+    ],
+    "T_slots": [
+      "11A"
+    ],
+    "L_venue": "",
+    "T_venue": ""
+  },
+  "SI 424 (M)": {
+    "name": "Statistical Inference I (Minor)",
+    "sections": [
+      {
+        "instructor": "Radhendushka Srivastava",
+        "L_slot": "5"
+      }
+    ],
+    "T_slots": [
+      "XA"
+    ],
+    "L_venue": "113",
+    "T_venue": "215"
+  },
+  "SI 427 (S2)": {
+    "name": "Probability I (B.S.+ M.Sc. Math)",
+    "sections": [
+      {
+        "instructor": "Ravi Raghunathan",
+        "L_slot": "7"
+      }
+    ],
+    "T_slots": [
+      "12C"
+    ],
+    "L_venue": "114",
+    "T_venue": "114, 113"
+  },
+  "SI 427 (S1)": {
+    "name": "Probability I (Minor+ M.Sc. Stat)",
+    "sections": [
+      {
+        "instructor": "K Suresh Kumar",
+        "L_slot": "5"
+      }
+    ],
+    "T_slots": [
+      "XA"
+    ],
+    "L_venue": "114",
+    "T_venue": "113, 114"
+  },
+  "SI 429": {
+    "name": "Real analysis",
+    "sections": [
+      {
+        "instructor": "Sumit Kumar",
+        "L_slot": "10"
+      }
+    ],
+    "T_slots": [
+      "XB"
+    ],
+    "L_venue": "216",
+    "T_venue": "216"
+  },
+  "SI 431": {
+    "name": "Introduction to Data Analysis using R",
+    "sections": [
+      {
+        "instructor": "Monika Bhattacharjee, Ayan Bhattacharya",
+        "L_slot": "9"
+      }
+    ],
+    "T_slots": [
+      "X2"
+    ],
+    "L_venue": "Lab",
+    "T_venue": "Lab"
+  },
+  "SI 503": {
+    "name": "Categorical data analysis",
+    "sections": [
+      {
+        "instructor": "Ashis Das",
+        "L_slot": "3"
+      }
+    ],
+    "T_slots": [
+      "12A"
+    ],
+    "L_venue": "216",
+    "T_venue": "114"
+  },
+  "SI 505": {
+    "name": "Multivariate analysis",
+    "sections": [
+      {
+        "instructor": "Debraj Das",
+        "L_slot": "11"
+      }
+    ],
+    "T_slots": [
+      "X1"
+    ],
+    "L_venue": "216",
+    "T_venue": "216"
+  },
+  "SI 507": {
+    "name": "Numerical analysis",
+    "sections": [
+      {
+        "instructor": "Tony J. Puthenpurakal",
+        "L_slot": "1"
+      }
+    ],
+    "T_slots": [
+      "12B"
+    ],
+    "L_venue": "216",
+    "T_venue": "114, 113"
+  },
+  "SI 543": {
+    "name": "Asymptotic Statistics",
+    "sections": [
+      {
+        "instructor": "Parthanil Roy",
+        "L_slot": "10"
+      }
+    ],
+    "T_slots": [
+      "X2"
+    ],
+    "L_venue": "114",
+    "T_venue": "216"
+  },
+  "MA 811": {
+    "name": "Algebra I",
+    "sections": [
+      {
+        "instructor": "Dipendra Prasad",
+        "L_slot": "9"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "113",
+    "T_venue": ""
+  },
+  "MA 813": {
+    "name": "Measure theory",
+    "sections": [
+      {
+        "instructor": "Mayukh Mukherjee",
+        "L_slot": "8"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "216",
+    "T_venue": ""
+  },
+  "MA 815": {
+    "name": "Differential topology",
+    "sections": [
+      {
+        "instructor": "Anusha Mangala Krishnan",
+        "L_slot": "7"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "113",
+    "T_venue": ""
+  },
+  "MA 817": {
+    "name": "Partial differential equations I",
+    "sections": [
+      {
+        "instructor": "Neela Nataraj",
+        "L_slot": "6"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "105",
+    "T_venue": ""
+  },
+  "MA 823": {
+    "name": "Probability",
+    "sections": [
+      {
+        "instructor": "Koushik Saha",
+        "L_slot": "9"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "105",
+    "T_venue": ""
+  },
+  "MA 833": {
+    "name": "Weak convergence and martingale theory",
+    "sections": [
+      {
+        "instructor": "Ayan Bhattacharya",
+        "L_slot": "8"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "113",
+    "T_venue": ""
+  },
+  "MA 841": {
+    "name": "Topics in Algebra I",
+    "sections": [
+      {
+        "instructor": "Shripad M. Garge",
+        "L_slot": "6"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "113",
+    "T_venue": ""
+  },
+  "MA 843": {
+    "name": "Topics in Analysis I",
+    "sections": [
+      {
+        "instructor": "Santanu Dey",
+        "L_slot": "10"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "113",
+    "T_venue": ""
+  },
+  "MA 851": {
+    "name": "Topics in Number Theory I",
+    "sections": [
+      {
+        "instructor": "Kummari Mallesham",
+        "L_slot": "12"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "216",
+    "T_venue": ""
+  },
+  "MA 855": {
+    "name": "Topics in Numerical Analysis I",
+    "sections": [
+      {
+        "instructor": "Manas Rachh",
+        "L_slot": "7"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "105",
+    "T_venue": ""
+  },
+  "MA 861": {
+    "name": "Combinatorics I",
+    "sections": [
+      {
+        "instructor": "Krishnan Sivasubramanian",
+        "L_slot": "4"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "113",
+    "T_venue": ""
+  },
+  "MA 863": {
+    "name": "Theoretical Statistics I",
+    "sections": [
+      {
+        "instructor": "Monika Bhattacharjee",
+        "L_slot": "12"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "105",
+    "T_venue": ""
+  },
+  "MA 899": {
+    "name": "Communication skills",
+    "sections": [
+      {
+        "instructor": "Rekha Santhanam",
+        "L_slot": "3"
+      }
+    ],
+    "T_slots": [],
+    "L_venue": "105",
+    "T_venue": ""
+  }
+}

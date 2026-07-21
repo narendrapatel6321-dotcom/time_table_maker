@@ -1,0 +1,207 @@
+{
+  "XE": {
+    "day": "Monday",
+    "start": "08:00",
+    "end": "09:25"
+  },
+  "1A": {
+    "day": "Monday",
+    "start": "09:30",
+    "end": "10:25"
+  },
+  "2A": {
+    "day": "Monday",
+    "start": "10:35",
+    "end": "11:30"
+  },
+  "3A": {
+    "day": "Monday",
+    "start": "11:35",
+    "end": "12:30"
+  },
+  "8A": {
+    "day": "Monday",
+    "start": "14:00",
+    "end": "15:25"
+  },
+  "9A": {
+    "day": "Monday",
+    "start": "15:30",
+    "end": "16:55"
+  },
+  "12A": {
+    "day": "Monday",
+    "start": "17:05",
+    "end": "18:00"
+  },
+  "L1": {
+    "day": "Monday",
+    "start": "14:00",
+    "end": "16:55"
+  },
+  "4A": {
+    "day": "Tuesday",
+    "start": "08:00",
+    "end": "09:25"
+  },
+  "1B": {
+    "day": "Tuesday",
+    "start": "09:30",
+    "end": "10:25"
+  },
+  "2B": {
+    "day": "Tuesday",
+    "start": "10:35",
+    "end": "11:30"
+  },
+  "3B": {
+    "day": "Tuesday",
+    "start": "11:35",
+    "end": "12:30"
+  },
+  "10A": {
+    "day": "Tuesday",
+    "start": "14:00",
+    "end": "15:25"
+  },
+  "11A": {
+    "day": "Tuesday",
+    "start": "15:30",
+    "end": "16:55"
+  },
+  "12B": {
+    "day": "Tuesday",
+    "start": "17:05",
+    "end": "18:00"
+  },
+  "L2": {
+    "day": "Tuesday",
+    "start": "14:00",
+    "end": "16:55"
+  },
+  "5A": {
+    "day": "Wednesday",
+    "start": "08:00",
+    "end": "09:25"
+  },
+  "6A": {
+    "day": "Wednesday",
+    "start": "09:30",
+    "end": "10:55"
+  },
+  "7A": {
+    "day": "Wednesday",
+    "start": "11:05",
+    "end": "12:30"
+  },
+  "X1": {
+    "day": "Wednesday",
+    "start": "14:00",
+    "end": "14:55"
+  },
+  "X2": {
+    "day": "Wednesday",
+    "start": "15:00",
+    "end": "15:55"
+  },
+  "X3": {
+    "day": "Wednesday",
+    "start": "16:00",
+    "end": "16:55"
+  },
+  "XA": {
+    "day": "Wednesday",
+    "start": "17:05",
+    "end": "18:00"
+  },
+  "LX": {
+    "day": "Wednesday",
+    "start": "14:00",
+    "end": "16:55"
+  },
+  "L5": {
+    "day": "Wednesday",
+    "start": "09:30",
+    "end": "12:30"
+  },
+  "4B": {
+    "day": "Thursday",
+    "start": "08:00",
+    "end": "09:25"
+  },
+  "1C": {
+    "day": "Thursday",
+    "start": "09:30",
+    "end": "10:25"
+  },
+  "2C": {
+    "day": "Thursday",
+    "start": "10:35",
+    "end": "11:30"
+  },
+  "3C": {
+    "day": "Thursday",
+    "start": "11:35",
+    "end": "12:30"
+  },
+  "8B": {
+    "day": "Thursday",
+    "start": "14:00",
+    "end": "15:25"
+  },
+  "9B": {
+    "day": "Thursday",
+    "start": "15:30",
+    "end": "16:55"
+  },
+  "12C": {
+    "day": "Thursday",
+    "start": "17:05",
+    "end": "18:00"
+  },
+  "L3": {
+    "day": "Thursday",
+    "start": "14:00",
+    "end": "16:55"
+  },
+  "5B": {
+    "day": "Friday",
+    "start": "08:00",
+    "end": "09:25"
+  },
+  "6B": {
+    "day": "Friday",
+    "start": "09:30",
+    "end": "10:55"
+  },
+  "7B": {
+    "day": "Friday",
+    "start": "11:05",
+    "end": "12:30"
+  },
+  "10B": {
+    "day": "Friday",
+    "start": "14:00",
+    "end": "15:25"
+  },
+  "11B": {
+    "day": "Friday",
+    "start": "15:30",
+    "end": "16:55"
+  },
+  "XB": {
+    "day": "Friday",
+    "start": "17:05",
+    "end": "18:00"
+  },
+  "L4": {
+    "day": "Friday",
+    "start": "14:00",
+    "end": "16:55"
+  },
+  "L6": {
+    "day": "Friday",
+    "start": "09:30",
+    "end": "12:30"
+  }
+}
