@@ -31,7 +31,7 @@ st.markdown("Add courses outside the department. You can enter generic slots (e.
 if "electives" not in st.session_state:
     st.session_state.electives = []
 
-with st.expander("Add an elective not listed above"):
+with st.expander("➕ Add an elective not listed above"):
     e_name = st.text_input("Course Code/Name (e.g., HS 101)")
     
     col1, col2 = st.columns(2)
@@ -46,12 +46,11 @@ with st.expander("Add an elective not listed above"):
         elif not e_l_slots and not e_t_slots:
             st.error("Please provide at least one Lecture or Tutorial slot.")
         else:
-            added_any = False
             invalid_slots = []
 
-            # Helper function to process comma-separated slots
+            # Helper function rewritten to return a boolean instead of using nonlocal
             def process_slots(slot_string, slot_type):
-                nonlocal added_any
+                did_add = False
                 # Split by comma, strip spaces, ignore empty strings
                 raw_slots = [s.strip().upper() for s in slot_string.split(",") if s.strip()]
                 
@@ -70,13 +69,15 @@ with st.expander("Add an elective not listed above"):
                                 "type": slot_type,
                                 "slot": c_slot
                             })
-                            added_any = True
+                            did_add = True
                         else:
                             invalid_slots.append(c_slot)
+                return did_add
 
             # Process both input fields
-            process_slots(e_l_slots, "Lecture")
-            process_slots(e_t_slots, "Tutorial")
+            added_l = process_slots(e_l_slots, "Lecture")
+            added_t = process_slots(e_t_slots, "Tutorial")
+            added_any = added_l or added_t
 
             if invalid_slots:
                 st.warning(f"Added valid slots, but these were unrecognized in the grid: {', '.join(invalid_slots)}")
@@ -93,6 +94,7 @@ if st.session_state.electives:
     if st.button("Clear Electives"):
         st.session_state.electives = []
         st.rerun()
+
 
 # --- 3. Generation & Rendering ---
 st.header("3. Generate")
